@@ -19,6 +19,7 @@
 자세한 내용은 아래에서 확인해주세요!
 
 - 🔗 [프로토타입 (배포본)](https://na-t-na-fe.vercel.app/)
+- 🔗 [프로토타입 (디자인)](https://www.figma.com/proto/7eDduxXiOZG4jbRbQrbiO5/%EB%82%98%ED%8B%B0%EB%82%98-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?content-scaling=fixed&kind=proto&node-id=1-3565&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=1%3A3508)
 - 🔗 [아카이빙 노션](https://ubiquitous-blackberry-1d3.notion.site/2483cff2c9eb805eb6edc5cc93cf8e2b)
 
 
