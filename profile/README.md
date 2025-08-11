@@ -22,7 +22,7 @@
 
 https://github.com/user-attachments/assets/03562005-99b1-4b57-83d9-137b84915be5
 
-> 공감을 못하는 대화를 할경우
+> 채팅대화 시연
 
 https://github.com/user-attachments/assets/8ab339ad-0bf5-4a8a-9a53-3c7d7342cde3
 
