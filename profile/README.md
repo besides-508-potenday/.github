@@ -26,9 +26,10 @@ https://github.com/user-attachments/assets/03562005-99b1-4b57-83d9-137b84915be5
 
 https://github.com/user-attachments/assets/8ab339ad-0bf5-4a8a-9a53-3c7d7342cde3
 
-> 결과이미지 공유 시연 (iOS simulator)
+> 결과이미지 공유 시연
 
-![Simulator Screen Recording - iPhone 16 Pro - 2025-08-12 at 05 39 37](https://github.com/user-attachments/assets/cf9a45d2-e226-4528-ab92-619499bf52cd)
+https://github.com/user-attachments/assets/fa1c8418-48a0-40e8-8e49-2e6e0e69175a
+
 
 
 
