@@ -26,6 +26,10 @@ https://github.com/user-attachments/assets/03562005-99b1-4b57-83d9-137b84915be5
 
 https://github.com/user-attachments/assets/8ab339ad-0bf5-4a8a-9a53-3c7d7342cde3
 
+> 결과이미지 공유 시연 (iOS simulator)
+
+![Simulator Screen Recording - iPhone 16 Pro - 2025-08-12 at 05 39 37](https://github.com/user-attachments/assets/cf9a45d2-e226-4528-ab92-619499bf52cd)
+
 
 
 - 🔗 [서비스 소개서](https://www.figma.com/deck/SD6UF09n5KP2CCGeGRwzgb/F%EC%99%80%EC%9D%98-%EA%B1%B0%EB%A6%AC---%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%86%8C%EA%B0%9C%EC%84%9C?kind=deck&node-id=1-4682)
