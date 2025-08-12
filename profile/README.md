@@ -31,7 +31,8 @@ https://github.com/user-attachments/assets/8ab339ad-0bf5-4a8a-9a53-3c7d7342cde3
 https://github.com/user-attachments/assets/fa1c8418-48a0-40e8-8e49-2e6e0e69175a
 
 > 서비스 시스템 아키텍쳐
-<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/b037b358-7ded-41a8-94b6-ac5f4abbfa97" />
+<img width="2500" height="1000" alt="image" src="https://github.com/user-attachments/assets/284e6472-2117-476c-8fb1-7bed2db0d554" />
+
 
 
 
