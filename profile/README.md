@@ -22,16 +22,23 @@
 
 https://github.com/user-attachments/assets/03562005-99b1-4b57-83d9-137b84915be5
 
+<br>
+
 > 채팅대화 시연
 
 https://github.com/user-attachments/assets/8ab339ad-0bf5-4a8a-9a53-3c7d7342cde3
+
+<br>
 
 > 결과이미지 공유 시연
 
 https://github.com/user-attachments/assets/fa1c8418-48a0-40e8-8e49-2e6e0e69175a
 
+<br>
+
 > 서비스 시스템 아키텍쳐
-<img width="2500" height="1000" alt="image" src="https://github.com/user-attachments/assets/284e6472-2117-476c-8fb1-7bed2db0d554" />
+<img width="2500" height="1000" alt="image" src="https://github.com/user-attachments/assets/d2fa6971-505b-4171-b088-dd4bb3d5f9ca" />
+
 
 
 
